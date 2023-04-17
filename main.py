@@ -1,4 +1,5 @@
-#https://replit.com/@chadallen/chatbotconversation
+# https://replit.com/@chadallen/chatbotconversation
+# chadallen/chatbot_conversation
 
 import openai
 import os
